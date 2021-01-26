@@ -1,0 +1,146 @@
+/* Typography */
+
+a {
+    font-family: Graphik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+}
+
+h2 {
+    font-family: Graphik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 55px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #252B42;
+}
+
+h4 {
+    font-family: Graphik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #374754;
+}
+
+.nav-link {
+    font-family: Graphik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #ffffff !important;
+}
+
+.jumbotron .title {
+    font-family: Graphik;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 74px;
+    line-height: 84px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #ffffff;
+}
+
+.jumbotron .sub-title {
+    font-family: Graphik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #ffffff;
+}
+
+.btn {
+    font-family: Graphik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.2px;
+}
+
+/* Buttons */
+
+.btn {
+    border-radius: 35px;
+    padding: 16px 62px;
+}
+
+.btn-primary {
+    background-color: #2091F9;
+    border-width: 0;
+}
+
+/* tag style */
+
+header {
+    position: absolute;
+    width: 100%;
+}
+
+section {
+    height: 100vh;
+}
+
+/* Header */
+
+.navbar {
+    height: 156px;
+}
+
+
+/* Jumbotron */
+
+.jumbotron {
+    background-size: cover;
+    background-position: center -10vh;
+    background-repeat: no-repeat;
+    background-image: url(/img/bg.svg);
+}
+
+.jumbotron .content {
+    max-width: 766px;
+}
+
+/* Helpers */
+
+.pr-44 {
+    padding-right: 44px;
+}
+
+.pl-31 {
+    padding-left: 31px;
+}
+
+.mb-20 {
+    padding-bottom: 20px;
+}
+
+.mb-82 {
+    margin-bottom: 82px;
+}
+
+.mb-90 {
+    margin-bottom: 90px;
+}
+
+.space {
+    height: 286px;
+}
+
